@@ -1,2 +1,0 @@
-AdsTxtLine, domain, 231111
-dom.co, 34343, RESELLER, ms
