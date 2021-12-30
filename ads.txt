@@ -1,2 +1,2 @@
-domain, 231111, RESELLER, bla
+domain, 231111, RESELLER
 bla, blabla, blablabla
